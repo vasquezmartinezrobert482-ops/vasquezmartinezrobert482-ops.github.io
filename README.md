@@ -24,6 +24,7 @@
 ## 🎓 FORMACIÓN ACADÉMICA
 
 ### Universidad
+
 | Aspecto | Detalle |
 |--------|--------|
 | *Institución* | Universidad Mayor, Real y Pontificia de San Francisco Xavier de Chuquisaca |
@@ -35,10 +36,11 @@
 | *Año de Finalización Esperado* | 2031 |
 
 ### Bachillerato
+
 | Aspecto | Detalle |
 |--------|--------|
 | *Tipo* | Bachiller en Humanidades |
-| *Institución* | Emilio Hochmann |
+| *colegio* | Emilio Hochmann |
 | *Año de Egreso* | 2025 |
 | *Lugar de Emisión* | Sucre, Chuquisaca, Bolivia |
 | *Fecha del Diploma* | 10 de Diciembre de 2025 |
