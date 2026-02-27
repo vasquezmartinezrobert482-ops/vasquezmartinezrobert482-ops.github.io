@@ -4,7 +4,7 @@
 
 ## 📸 FOTOGRAFÍA
 
-<img src="./imagen-profesional.jpg" alt="Header" width="40%">
+<img src="./imagen-profesional.jpg" alt="Header" width="30%">
 
 ---
 
