@@ -2,8 +2,7 @@
 
 ---
 
-## 📸 FOTOGRAFÍA
-
+##
 <img src="./imagen-profesional.jpg" alt="Header" width="50%">
 
 ---
