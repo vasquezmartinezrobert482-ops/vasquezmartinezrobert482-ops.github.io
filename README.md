@@ -4,7 +4,7 @@
 
 ## 📸 FOTOGRAFÍA
 
-![Foto Profesional de Robert Vasquez Martinez](imagen-profesional.jpg)
+<img src="./imagen-profesional.jpg" alt="Header" width="50%">
 
 ---
 
