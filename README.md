@@ -73,6 +73,7 @@ Actualmente me encuentro en proceso de formación académica, dedicándome de ti
 - *Certificado de Voluntario Censista* (2024)
 - *Certificado de Participación - Organización "Más Allá del Éxito"* (2025)
 - *Certificado de Participación - Taller de Liderazgo, Alcaldía* (2024)
+- *Certificado de curso universitario - e-campus, usfx* (2026)
 
 ---
 
